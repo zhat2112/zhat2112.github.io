@@ -1,1 +1,6 @@
-background-image: url("webround.png");
+body {
+  background-image: url("webround");
+  background-color: white;
+  color: white;
+  font-family: Verdana;
+}
